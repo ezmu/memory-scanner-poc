@@ -64,5 +64,5 @@ Use only test or synthetic data. Never attempt to scan memory containing sensiti
 Author Information
 ------------------
 Name: Ez Eldeen Mushtaha
-Email: ezmu@example.com
+Email: 3z.eldeen@gmail.com
 LinkedIn: https://www.linkedin.com/in/ezmush/
